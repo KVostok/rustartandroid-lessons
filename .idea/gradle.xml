@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0031firstproject" />
+            <option value="$PROJECT_DIR$/p0041basicviews" />
+            <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0061layouts" />
+            <option value="$PROJECT_DIR$/p0072layoutprop" />
+            <option value="$PROJECT_DIR$/p0081viewbyid" />
+            <option value="$PROJECT_DIR$/p0091onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0101listener" />
+            <option value="$PROJECT_DIR$/p0102activitylistener" />
+            <option value="$PROJECT_DIR$/p0111resvalues" />
+            <option value="$PROJECT_DIR$/p0121logandmess" />
+            <option value="$PROJECT_DIR$/p0131menusimple" />
+            <option value="$PROJECT_DIR$/p0141menuadv" />
+            <option value="$PROJECT_DIR$/p0151contextmenu" />
+            <option value="$PROJECT_DIR$/p0180constraintlayoutintro" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

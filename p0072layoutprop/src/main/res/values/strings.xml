@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LayoutProp</string>
+    <string name="ID">ID</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="Sex">Sex</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Add">Add</string>
+    <string name="View">View</string>
+    <string name="Clear">Clear</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+<!--              android:background="@drawable/bg">-->
+
+
+    <LinearLayout style="@style/main_LL_rows">
+        <TextView
+                style="@style/labels"
+                android:text="@string/ID"/>
+
+        <EditText
+                style="@style/EditText_Number"
+                android:layout_width="60dp"
+                android:id="@+id/etID"/>
+
+        <Button style="@style/btn_120dp"
+                android:text="@string/Edit"
+                android:id="@+id/btnEdit"/>
+        <Button style="@style/btn_120dp"
+                android:text="@string/Delete"
+                android:id="@+id/btnDelete"/>
+    </LinearLayout>
+
+
+    <LinearLayout style="@style/main_LL_rows">
+        <TextView
+                style="@style/labels"
+                android:text="@string/Name"/>
+        <EditText
+                style="@style/EditText_Text"
+                android:layout_width="match_parent"
+                android:id="@+id/etName"/>
+    </LinearLayout>
+
+
+    <LinearLayout style="@style/main_LL_rows">
+        <TextView
+                style="@style/labels"
+                android:text="@string/Age"/>
+        <EditText
+                style="@style/EditText_Number"
+                android:layout_width="60dp"
+                android:id="@+id/etAge"/>
+    </LinearLayout>
+
+
+    <LinearLayout style="@style/main_LL_rows">
+        <TextView
+                style="@style/labels"
+                android:text="@string/Sex"/>
+        <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/rgSex">
+            <RadioButton style="@style/Text"
+                         android:text="@string/Male"
+                         android:id="@+id/rbMale"
+                         android:checked="true"
+                         android:layout_marginLeft="15dp"/>
+            <RadioButton style="@style/Text"
+                         android:text="@string/Female"
+                         android:id="@+id/rbFemale"
+                         android:layout_marginLeft="15dp"/>
+        </RadioGroup>
+    </LinearLayout>
+
+
+    <LinearLayout style="@style/main_LL_rows">
+        <Button style="@style/Button"
+                android:text="@string/Add"
+                android:id="@+id/btnAdd"
+                android:layout_weight="1"/>
+        <Button style="@style/Button"
+                android:text="@string/View"
+                android:id="@+id/btnView"
+                android:layout_weight="1"/>
+        <Button style="@style/Button"
+                android:text="@string/Clear"
+                android:id="@+id/btnClear"
+                android:layout_weight="1"/>
+    </LinearLayout>
+
+</LinearLayout>
