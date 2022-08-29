@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/p0211twoactivity" />
             <option value="$PROJECT_DIR$/p0231oneactivitystate" />
             <option value="$PROJECT_DIR$/p0241twoactivitystate" />
+            <option value="$PROJECT_DIR$/p0261intentfilter" />
           </set>
         </option>
       </GradleProjectSettings>
