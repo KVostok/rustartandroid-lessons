@@ -9,7 +9,7 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.AndroidLessons">
-        <activity android:name=".ActivityTwo">
+        <activity android:name=".ActivityTwo" android:theme="@style/Theme.AppCompat.Dialog">
         </activity>
         <activity
                 android:name=".MainActivity"
