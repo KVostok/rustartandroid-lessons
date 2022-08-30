@@ -37,6 +37,7 @@
             <option value="$PROJECT_DIR$/p0271getintentaction" />
             <option value="$PROJECT_DIR$/p0281intentextras" />
             <option value="$PROJECT_DIR$/p0291simpleactivityresult" />
+            <option value="$PROJECT_DIR$/p0301activityresult" />
           </set>
         </option>
       </GradleProjectSettings>
