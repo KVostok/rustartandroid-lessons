@@ -42,6 +42,7 @@
             <option value="$PROJECT_DIR$/p0321simplebrowser" />
             <option value="$PROJECT_DIR$/p0331sharedpreferences" />
             <option value="$PROJECT_DIR$/p0341simplesqlite" />
+            <option value="$PROJECT_DIR$/p0361sqlitequery" />
           </set>
         </option>
       </GradleProjectSettings>
