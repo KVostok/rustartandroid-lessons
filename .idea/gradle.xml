@@ -43,6 +43,7 @@
             <option value="$PROJECT_DIR$/p0331sharedpreferences" />
             <option value="$PROJECT_DIR$/p0341simplesqlite" />
             <option value="$PROJECT_DIR$/p0361sqlitequery" />
+            <option value="$PROJECT_DIR$/p0371sqliteinnerjoin" />
           </set>
         </option>
       </GradleProjectSettings>
