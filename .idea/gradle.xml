@@ -49,6 +49,7 @@
             <option value="$PROJECT_DIR$/p0401layoutinflater" />
             <option value="$PROJECT_DIR$/p0411layoutinflaterlist" />
             <option value="$PROJECT_DIR$/p0421simplelist" />
+            <option value="$PROJECT_DIR$/p0431simplelistchoice" />
           </set>
         </option>
       </GradleProjectSettings>
