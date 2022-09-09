@@ -59,6 +59,8 @@
             <option value="$PROJECT_DIR$/p0511simpleadapterdata" />
             <option value="$PROJECT_DIR$/p0521customadapter" />
             <option value="$PROJECT_DIR$/p0551headerfooter" />
+            <option value="$PROJECT_DIR$/p0561spinner" />
+            <option value="$PROJECT_DIR$/p0571gridview" />
           </set>
         </option>
       </GradleProjectSettings>
