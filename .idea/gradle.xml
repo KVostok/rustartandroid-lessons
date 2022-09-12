@@ -63,6 +63,7 @@
             <option value="$PROJECT_DIR$/p0571gridview" />
             <option value="$PROJECT_DIR$/p0581timepickerdialog" />
             <option value="$PROJECT_DIR$/p0591datepickerdialog" />
+            <option value="$PROJECT_DIR$/p0601alertdialogsimple" />
           </set>
         </option>
       </GradleProjectSettings>
