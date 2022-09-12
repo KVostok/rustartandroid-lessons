@@ -65,6 +65,7 @@
             <option value="$PROJECT_DIR$/p0591datepickerdialog" />
             <option value="$PROJECT_DIR$/p0601alertdialogsimple" />
             <option value="$PROJECT_DIR$/p0611alertdialogprepare" />
+            <option value="$PROJECT_DIR$/p0621alertdialogitems" />
           </set>
         </option>
       </GradleProjectSettings>
