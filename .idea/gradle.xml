@@ -61,6 +61,7 @@
             <option value="$PROJECT_DIR$/p0551headerfooter" />
             <option value="$PROJECT_DIR$/p0561spinner" />
             <option value="$PROJECT_DIR$/p0571gridview" />
+            <option value="$PROJECT_DIR$/p0581timepickerdialog" />
           </set>
         </option>
       </GradleProjectSettings>
