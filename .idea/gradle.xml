@@ -71,6 +71,7 @@
             <option value="$PROJECT_DIR$/p0651alertdialogcustom" />
             <option value="$PROJECT_DIR$/p0661alertdialogoperations" />
             <option value="$PROJECT_DIR$/p0671progressdialog" />
+            <option value="$PROJECT_DIR$/p0681parcel" />
           </set>
         </option>
       </GradleProjectSettings>
