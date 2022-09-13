@@ -1,0 +1,5 @@
+<resources>
+    <string name="dflt">Обычный</string>
+    <string name="horiz">Горизонтальный</string>
+    <string name="app_name">ProgressDialog</string>
+</resources>
