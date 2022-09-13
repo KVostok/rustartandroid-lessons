@@ -73,6 +73,7 @@
             <option value="$PROJECT_DIR$/p0671progressdialog" />
             <option value="$PROJECT_DIR$/p0681parcel" />
             <option value="$PROJECT_DIR$/p0691parcelable" />
+            <option value="$PROJECT_DIR$/p0701saveinstancestate" />
           </set>
         </option>
       </GradleProjectSettings>
