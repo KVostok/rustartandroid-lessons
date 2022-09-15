@@ -75,6 +75,7 @@
             <option value="$PROJECT_DIR$/p0691parcelable" />
             <option value="$PROJECT_DIR$/p0701saveinstancestate" />
             <option value="$PROJECT_DIR$/p0711preferencessimple" />
+            <option value="$PROJECT_DIR$/p0721preferencessimple2" />
           </set>
         </option>
       </GradleProjectSettings>
