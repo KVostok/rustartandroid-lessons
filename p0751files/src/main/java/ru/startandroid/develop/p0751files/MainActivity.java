@@ -87,8 +87,13 @@ public class MainActivity extends AppCompatActivity {
         //добавляем свой каталог к пути
         sdPath = new File(sdPath.getAbsolutePath() + "/" + DIR_SD);
         // создаем каталог
-        boolean isMake = sdPath.mkdirs();
-        Log.d(LOG_TAG, isMake ? "true" : "false");
+        sdPath.mkdirs();
+        //В эмуляторе вручную в настройках приложения нужно дать разрешение на запись в SD
+        if(!sdPath.canWrite()){
+            Log.d(LOG_TAG, "нет разрешения на запись SD");
+            Toast.makeText(this,"нет разрешения на запись SD",Toast.LENGTH_LONG).show();
+            return;
+        }
         // формируем объект File, который содержит путь к файлу
         File sdFile = new File(sdPath, FILENAME_SD);
         try {
