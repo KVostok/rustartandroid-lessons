@@ -81,6 +81,7 @@
             <option value="$PROJECT_DIR$/p0751files" />
             <option value="$PROJECT_DIR$/p0761tab" />
             <option value="$PROJECT_DIR$/p0771tabintent" />
+            <option value="$PROJECT_DIR$/p0781tabcontentfactory" />
           </set>
         </option>
       </GradleProjectSettings>
