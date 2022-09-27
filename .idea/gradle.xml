@@ -84,6 +84,7 @@
             <option value="$PROJECT_DIR$/p0781tabcontentfactory" />
             <option value="$PROJECT_DIR$/p0791xmlpullparser" />
             <option value="$PROJECT_DIR$/p0801handler" />
+            <option value="$PROJECT_DIR$/p0811handlersimplemessage" />
           </set>
         </option>
       </GradleProjectSettings>
