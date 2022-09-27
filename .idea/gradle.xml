@@ -85,6 +85,7 @@
             <option value="$PROJECT_DIR$/p0791xmlpullparser" />
             <option value="$PROJECT_DIR$/p0801handler" />
             <option value="$PROJECT_DIR$/p0811handlersimplemessage" />
+            <option value="$PROJECT_DIR$/p0821handleradvmessage" />
           </set>
         </option>
       </GradleProjectSettings>
