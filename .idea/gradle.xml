@@ -88,6 +88,7 @@
             <option value="$PROJECT_DIR$/p0821handleradvmessage" />
             <option value="$PROJECT_DIR$/p0831handlermessagemanage" />
             <option value="$PROJECT_DIR$/p0841handlerrunnable" />
+            <option value="$PROJECT_DIR$/p0851runnableuithread" />
           </set>
         </option>
       </GradleProjectSettings>
